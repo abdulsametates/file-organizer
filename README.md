@@ -28,3 +28,6 @@ A sleek, lightweight, and modern desktop application built with Python and Custo
 2. Run the application.
 3. Click **Select Folder** and choose the directory you want to organize.
 4. Click **Organize Now** and watch your files get cleaned and sorted instantly!
+
+## 📥 Download
+You can download the latest version from the [Releases page](https://github.com/abdulsametates/file-organizer/releases/latest).
